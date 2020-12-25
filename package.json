@@ -1,0 +1,17 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.6",
+    "readcommand": "^0.3.0",
+    "socket.io": "^3.0.4",
+    "socket.io-client": "^3.0.4"
+  }
+}
